@@ -1,4 +1,4 @@
-from TaitanX.core.bot import AloneXBot
+from TaitanX.core.bot import TaitanXBot
 from TaitanX.core.dir import dirr
 from TaitanX.core.git import git
 from TaitanX.core.userbot import Userbot
